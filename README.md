@@ -12,6 +12,6 @@ My Office is in **Dunn 8**
 | Period | Course |
 | ----------- | ----------- |
 | A | AP Computer Science Principles |
-| C | Studio (Build, Design, Game Development |
+| C | Studio (Build, Design, Game Development) |
 | F | AP Computer Science A |
 | Office Hours | M: 10-10:30am, W: 1:15-1:45pm|
