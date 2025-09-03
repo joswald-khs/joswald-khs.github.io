@@ -7,6 +7,7 @@ My primary concern is lowering the barriers to entry into the field of Computer 
 ## Schedule
 
 Classes are in **Akin 20**
+
 My Office is in **Dunn 8**
 
 | Period | Course |
